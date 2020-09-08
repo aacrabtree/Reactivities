@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\APi\\API.csproj": {}
+    "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\APi\\API.csproj": {
+    "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\APi\\API.csproj",
+        "projectUniqueName": "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\APi\\API.csproj",
+        "projectPath": "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\API\\API.csproj",
         "packagesPath": "C:\\Users\\acrabt1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\APi\\obj\\",
+        "outputPath": "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
