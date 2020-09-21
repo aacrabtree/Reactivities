@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "MiTYWqUtUt7DYNmHJAKsUJfiEp15UulfX4djwmF5SRvTTHo+a/N/P18vf5RL9Gpyo8XnVhToDa57Qswrlp9/Yw==",
+  "dgSpecHash": "Q8100Ya1BOxxu3wr9b/WXTQydiSmtiHNeX6ZSfImywFJLW/M5yH/reE80AM3IVNkc5PhYfb5U3Il7EOcDjpP8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\acrabt1\\Documents\\Demo\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,9 @@
     "C:\\Users\\acrabt1\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.5.0\\fluentvalidation.dependencyinjectionextensions.8.5.0.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.0.3\\microsoft.aspnetcore.cryptography.internal.3.0.3.nupkg.sha512",
+    "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.0.3\\microsoft.aspnetcore.cryptography.keyderivation.3.0.3.nupkg.sha512",
+    "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.0.3\\microsoft.aspnetcore.identity.entityframeworkcore.3.0.3.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.data.sqlite.core\\3.1.4\\microsoft.data.sqlite.core.3.1.4.nupkg.sha512",
@@ -27,6 +30,8 @@
     "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.4\\microsoft.extensions.dependencyinjection.3.1.4.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.4\\microsoft.extensions.dependencymodel.3.1.4.nupkg.sha512",
+    "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.extensions.identity.core\\3.0.3\\microsoft.extensions.identity.core.3.0.3.nupkg.sha512",
+    "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.0.3\\microsoft.extensions.identity.stores.3.0.3.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.extensions.logging\\3.1.4\\microsoft.extensions.logging.3.1.4.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.4\\microsoft.extensions.logging.abstractions.3.1.4.nupkg.sha512",
     "C:\\Users\\acrabt1\\.nuget\\packages\\microsoft.extensions.options\\3.1.4\\microsoft.extensions.options.3.1.4.nupkg.sha512",
