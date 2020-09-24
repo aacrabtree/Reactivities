@@ -21,4 +21,4 @@ export class RootStore {
     }
 }
 
-export const RootStoreContext = createContext(new RootStore);
+export const RootStoreContext = createContext(new RootStore());
